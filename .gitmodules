@@ -1,0 +1,6 @@
+[submodule "Back-end"]
+	path = Back-end
+	url = https://github.com/ShutDownMan/WorkOrder-Backend
+[submodule "Front-end"]
+	path = Front-end
+	url = https://github.com/igoraristides/work-order-frontend
